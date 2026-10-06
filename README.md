@@ -15,7 +15,8 @@ Program ini memiliki sistem login dengan tiga role, yaitu Admin, Editor, dan Use
 Data spesifikasi aset disimpan menggunakan Dictionary sehingga data dapat dikelola dengan lebih mudah. Program juga menggunakan beberapa Function untuk memisahkan setiap proses agar program lebih terstruktur.
 
 # FLOWCHART DAN PENJELASAN ALURNYA
-<img width="1818" height="1492" alt="fix2amin drawio" src="https://github.com/user-attachments/assets/43f3e1b3-59e5-4fab-9c34-1a9946bab209" />
+<img width="1834" height="1492" alt="fix2amin2 drawio" src="https://github.com/user-attachments/assets/d6bef8cb-5e64-4ef2-8768-7be2713dc4d4" />
+
 
 Flowchart menggambarkan alur Studio Animasi & Motion Graphic – Specification System, mulai dari proses login hingga pengguna keluar dari program.
 
